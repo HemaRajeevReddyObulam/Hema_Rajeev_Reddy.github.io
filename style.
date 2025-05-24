@@ -1,0 +1,57 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.contexteditor.org/wp-content/uploads/2023/03/how-to-insert-background-image-in-html.jpg');
+    background-size: cover; /* Ensures the image covers the whole page */
+    background-position: center center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-color: darkblue; /* Dark blue background as fallback */
+    color: skyblue; /* Sky blue text color */
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black for text readability */
+    color: skyblue; /* Sky blue text color in the header */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main section styling */
+main {
+    margin-top: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: skyblue; /* Sky blue color for section titles */
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 0.8em;
+    color: skyblue; /* Sky blue text color in the footer */
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+}
