@@ -1,6 +1,6 @@
 /* Apply to the entire page */
 body {
-    background-image: url('https://www.example.com/path/to/your/image.jpg');
+    background-image: url('https://www.contexteditor.org/wp-content/uploads/2023/03/how-to-insert-background-image-in-html.jpg');
     background-size: cover; /* Ensures the image covers the whole page */
     background-position: center center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
